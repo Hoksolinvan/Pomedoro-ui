@@ -9,3 +9,12 @@ Implementation of a GUI pomedoro application using PySide6 and Qt Designer.
 
 
 # Demo
+
+
+<img width="365" height="295" alt="Screenshot 2026-05-24 at 10 22 52 AM" src="https://github.com/user-attachments/assets/f2703473-b497-418b-80b0-3cbd35bd0882" />
+
+
+
+# Misc
+
+Just a small project to try out the Qt Designer stack
